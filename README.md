@@ -1,5 +1,5 @@
 # Comps-Microservices
-eproducing results
+reproducing results
 
 To reproduce the results from this project, the developer must have access to an AWS account that has ECS, ECR, EC2 (ALB), and API gateway enabled, as well as an Okta developer account. The project repo can be found here.
 
